@@ -1,0 +1,26 @@
+<svg width="56" height="48" viewBox="0 0 56 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Playwright">
+  <title>Playwright</title>
+  <!-- left 8px are transparent: matches the skillicons grid gap (8.25px), tile itself is 48x48 -->
+  <g transform="translate(8 0)">
+    <rect width="48" height="48" rx="10" fill="#242938"/>
+
+    <!-- red mask (behind, left, sad) -->
+    <g transform="translate(9 10) rotate(-14 8 8.5)">
+      <path fill="#E2574C" d="M0 0 Q8 3.5 16 0 Q15.5 8.5 13.5 12.5 Q11.5 16.5 8 17 Q4.5 16.5 2.5 12.5 Q0.5 8.5 0 0 Z"/>
+      <path fill="#D65348" d="M16 0 Q15.5 8.5 13.5 12.5 Q11.5 16.5 8 17 Q10.8 15.2 12.2 11.5 Q14.3 6.5 14.5 1.2 Z"/>
+      <path fill="#2D4552" d="M3.2 6.4 Q5.2 3.9 7.2 6.6 Q4.9 7.6 3.2 6.4 Z"/>
+      <path fill="#2D4552" d="M8.8 6.6 Q10.8 3.9 12.8 6.4 Q11.1 7.6 8.8 6.6 Z"/>
+      <path fill="#2D4552" d="M4.2 13.4 Q8 9.4 11.8 13.4 Q10 11.4 8 11.4 Q6 11.4 4.2 13.4 Z"/>
+    </g>
+
+    <!-- green mask (front, right, happy) -->
+    <g transform="translate(19.5 12) rotate(9 11 12)">
+      <path fill="#2EAD33" d="M0 0 Q11 5 22 0 Q21.5 12 19 17.5 Q16.5 23 11 24 Q5.5 23 3 17.5 Q0.5 12 0 0 Z"/>
+      <path fill="#1D8D22" d="M22 0 Q21.5 12 19 17.5 Q16.5 23 11 24 Q14.2 21.8 16 17.2 Q18.6 10.8 19.2 1.5 Z"/>
+      <path fill="#2D4552" d="M4.5 9.2 Q7 5.6 9.6 8.6 Q7.4 10.6 4.5 9.2 Z"/>
+      <path fill="#2D4552" d="M13.4 8.6 Q16 5.6 18.5 9.2 Q15.6 10.6 13.4 8.6 Z"/>
+      <path fill="#2D4552" d="M4 13.6 Q11 20.6 18 13.6 Q17 19.6 11 20.6 Q5 19.6 4 13.6 Z"/>
+      <path fill="#FFFFFF" opacity="0.9" d="M6.4 14.8 Q11 17.8 15.6 14.8 Q14.2 17 11 17.4 Q7.8 17 6.4 14.8 Z"/>
+    </g>
+  </g>
+</svg>
